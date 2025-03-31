@@ -1,0 +1,11 @@
+
+
+.height {
+    height: 50vh;
+    min-height: 600px;
+    color: #fff;
+    background-image: url("/images/cw-newbanner.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,11 @@
+.blogList_containers {
+    padding: 60px 0;
+    text-align: center;
+    background-color: #f3f3f3;
+}
+
+.blogList_title {
+    font-size: 42px;
+    line-height: 1.15;
+    margin-bottom: 20px;
+}
