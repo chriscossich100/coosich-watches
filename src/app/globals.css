@@ -20,6 +20,21 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
+.swiper-pagination-bullet {
+  background:   rgb(156, 151, 151);
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffff;
+}
+
+.container {
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
 .websiteInfo {
   display: flex;
   /* flex-direction: column; */

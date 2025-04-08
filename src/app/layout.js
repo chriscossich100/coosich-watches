@@ -1,4 +1,8 @@
 import localFont from "next/font/local";
+import "swiper/css"
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 import "./globals.css";
 import Navbar from "./components/navbar";
 

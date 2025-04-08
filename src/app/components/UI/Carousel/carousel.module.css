@@ -1,0 +1,20 @@
+.carousel_containers {
+    padding: 60px 0;
+    background-color: #f3f3f3;
+}
+
+.carousel_blogList_title {
+    font-size: 42px;
+    line-height: 1.15;
+    margin-bottom: 20px;
+}
+
+
+.swiper_button_prev_icon::after {
+    content: 'prev';
+    font-size: 30px;
+}
+.swiper_button_next_icon::after {
+    content: 'next';
+    font-size: 30px;
+}
